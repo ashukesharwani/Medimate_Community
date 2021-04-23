@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/custom_dialog_layout_design"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/terms_condition"
+        android:id="@+id/dialog_box_image"
+        />
+
+    <TextView
+        android:id="@+id/dialog_box_medicine_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:gravity="center_horizontal"
+        android:text="Terms and Conditions"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="#F81C1C"
+        android:textSize="28sp"
+        app:layout_constraintTop_toBottomOf="@+id/dialog_box_image" />
+
+
+    <TextView
+        android:id="@+id/dialog_box_medicine_content"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="sans-serif"
+        android:text="The following clauses state that, Medimate shall not be held accountable if:\n
+
+        A> The services provided are not taken without any advice of a medical professional\n
+        B> If the user faces unforeseeable side effects of during their medication, that may/may not be hazardous\n
+        C> If user shall provide incorrect medical data either due to medical negligence or any type of malpractice follows.\n\n
+
+        NOTE: Only upon agreeing to the terms and conditions, can a user register their donated medicines."
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/dialog_box_medicine_name" />
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

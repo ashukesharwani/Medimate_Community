@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.medimate">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Medimate">
+        <activity android:name=".MythsAndFacts"></activity>
+        <activity android:name=".Snd_Email" />
+        <activity android:name=".Medicine_Seeker">
+            android:theme="@style/AppTheme"
+        </activity>
+        <activity android:name=".Medicine_Seeker_final" />
+        <activity android:name=".Fetch_Expiry_Image" />
+        <activity android:name=".Medicine_2" />
+        <activity android:name=".Medicine_1" />
+        <activity android:name=".News">
+            android:theme="@style/AppTheme"
+        </activity>
+        <activity android:name=".Medicine_Donation" />
+        <activity android:name=".Blood_Seeker" />
+        <activity android:name=".Blood_Donation" />
+        <activity android:name=".bloodSeeking" />
+        <activity android:name=".Verify_Email" />
+        <activity android:name=".send_email" />
+        <activity android:name=".EditProfile" />
+        <activity android:name=".Profile" />
+        <activity android:name=".Login" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Register"></activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

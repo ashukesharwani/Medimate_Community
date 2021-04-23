@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/ic_medimate_official_bg"
+    android:padding="20dp"
+    android:gravity="center"
+    tools:context=".Snd_Email">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/email_field_design">
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="To"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+        <EditText
+            android:id="@+id/em_To"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/email_field_design"
+            android:inputType="none"
+            android:textIsSelectable="true"
+            android:focusable="false"
+            android:editable="false"
+            android:hint="To"
+            android:padding="12dp" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/em_Subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Subject"
+        android:textColorHint="@android:color/black"
+        android:padding="12dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/email_field_design"/>
+
+    <EditText
+        android:id="@+id/em_Topic"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="12dp"
+
+        android:layout_marginTop="8dp"
+        android:background="@drawable/email_field_design"/>
+
+    <Button
+        android:id="@+id/em_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        android:layout_marginTop="8dp"/>
+
+
+
+
+
+
+
+</LinearLayout>

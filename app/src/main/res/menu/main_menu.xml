@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_Blood_Donation"
+            android:icon="@drawable/home_icon"
+            android:title="Blood Donation" />
+        <item
+            android:id="@+id/nav_Blood_Seeker"
+            android:icon="@drawable/home_icon"
+            android:title="Blood Seeker" />
+        <item
+            android:id="@+id/nav_Medicine_Donation"
+            android:icon="@drawable/home_icon"
+            android:title="Medicine Donation" />
+        <item
+            android:id="@+id/nav_Medicine_Seeker"
+            android:icon="@drawable/home_icon"
+            android:title="Medicine Seeker" />
+    </group>
+
+    <item
+
+        android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_Login"
+                    android:icon="@drawable/home_icon"
+                    android:title="Login" />
+
+                <item
+                    android:id="@+id/nav_Profile"
+                    android:icon="@drawable/person_profile_icon"
+                    android:title="Profile" />
+
+                <item
+                    android:id="@+id/nav_Logout"
+                    android:icon="@drawable/logout_icon"
+                    android:title="Logout" />
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="Communication">
+        <menu>
+            <item
+                android:id="@+id/nav_Share"
+                android:icon="@drawable/share_icon"
+                android:title="Shares" />
+            <item
+                android:id="@+id/nav_Rate"
+                android:icon="@drawable/rate_review"
+                android:title="Rate Us" />
+        </menu>
+    </item>
+
+
+</menu>

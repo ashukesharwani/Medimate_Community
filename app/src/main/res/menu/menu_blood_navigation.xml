@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+      android:id="@+id/medicine_1"
+        android:title="Request"
+        android:icon="@drawable/request_icon" />
+
+    <item
+        android:id="@+id/medicine_2"
+        android:title="Uploaded"
+        android:icon="@drawable/uploaded_icon" />
+
+    <item
+        android:id="@+id/medicine_3"
+        android:title="Upload"
+        android:icon="@drawable/upload_icon" />
+</menu>

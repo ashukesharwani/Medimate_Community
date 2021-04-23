@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">medimate</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="dummy_data">
+        The following clauses state that, Medimate shall not be held accountable if:
+        A> The services provided are not taken without any advice of a medical professional
+        B> If the user faces unforeseeable side effects of during their medication, that may/may not be hazardous
+        C> If user shall provide incorrect medical data either due to medical negligence or any type of malpractice follows.
+
+        NOTE: Only upon agreeing to the terms and conditions, can a user register their donated medicines."
+    </string>
+</resources>
