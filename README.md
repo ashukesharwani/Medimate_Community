@@ -26,7 +26,10 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
    Registration only happens the first time you access the system. It is a way to check your credentials. Every time after your initial registration, you will log on to the        system using the username and password you created. 
   
 <p><img src="https://user-images.githubusercontent.com/83163103/115995681-e9083100-a5f9-11eb-8f87-28965dfd071a.jpeg" width="300" height="500">&emsp;
-<img src="https://user-images.githubusercontent.com/83163103/115995683-e9a0c780-a5f9-11eb-850d-9838380e9f3a.jpeg" width="300" height="500"></p>
+<img src="https://user-images.githubusercontent.com/83163103/115995683-e9a0c780-a5f9-11eb-850d-9838380e9f3a.jpeg" width="300" height="500">&emsp;
+<img src="https://user-images.githubusercontent.com/83163103/115997819-2ec8f780-a602-11eb-90c4-b40c5dc74717.jpeg" width="300" height="500">
+</p>
+
 
 3. **HOMEPAGE**:
 
