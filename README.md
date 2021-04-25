@@ -5,8 +5,6 @@
 Medimate is an attempt to ease the process of blood and medical emergencies by connecting blood donors and drug vendors directly with people in need of blood and medicines. Medimate connects blood donors and drug vendors with recipients, without any intermediary such as blood banks and pharma stores, for an efficient and seamless process.
 
 
-A community-based blood and Medicine donation  App built on Android Studio and Firebase Realtime Database.
-
 ### LANGUAGES USED:
  1. JAVA
  2. XML :FOR LAYOUT
