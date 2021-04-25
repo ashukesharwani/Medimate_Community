@@ -50,7 +50,7 @@ The user needs to register to be eligible to use the app as well as he has to ve
 
 5. **NEWS**:
 
-    This Service provides the latest News Related to health and Life. Which gets updated every 3 hrs.
+      This Service provides the latest News Related to health and Life. Which gets updated within every 3 hrs.
    
 <p> <img src="https://user-images.githubusercontent.com/83163103/115995686-ead1f480-a5f9-11eb-89bb-16c24e69050e.jpeg" width="300" height="500">&emsp;
      <img src="https://user-images.githubusercontent.com/83163103/115995687-eb6a8b00-a5f9-11eb-9a7d-cb6a2b4896b2.jpeg" width="300" height="500"></p>
