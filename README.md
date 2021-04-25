@@ -43,8 +43,7 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
 
    Activity providing choice between user register,user login.
    
-<img src="https://user-images.githubusercontent.com/83163103/115995686-ead1f480-a5f9-11eb-89bb-16c24e69050e.jpeg" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/83163103/115995687-eb6a8b00-a5f9-11eb-9a7d-cb6a2b4896b2.jpeg" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/83163103/115995686-ead1f480-a5f9-11eb-89bb-16c24e69050e.jpeg" width="300" height="500"> <img src="https://user-images.githubusercontent.com/83163103/115995687-eb6a8b00-a5f9-11eb-9a7d-cb6a2b4896b2.jpeg" width="300" height="500">
 
 3. **MEDICINE DONATION**:
 
