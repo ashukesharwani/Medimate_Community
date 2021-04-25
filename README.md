@@ -17,10 +17,12 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
 1. **MAIN ACTIVITY**:
 
    Welcome screen of the app which shows the app logo and a background for 2 seconds and then proceeds to the next activity.
-  ![2](https://user-images.githubusercontent.com/83163103/115993043-747bc500-a5ee-11eb-9763-bcbb308248a1.jpeg)
+ 
+  <img src="https://user-images.githubusercontent.com/83163103/115993043-747bc500-a5ee-11eb-9763-bcbb308248a1.jpeg" width="300" height="500">
   
    
 2. **REGLOGCHOICE**:
 
    Activity providing choice between user register,user login.
+    
  
