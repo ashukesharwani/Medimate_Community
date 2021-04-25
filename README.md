@@ -43,16 +43,14 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
 
    Activity providing choice between user register,user login.
    
-<img src="https://user-images.githubusercontent.com/83163103/115995686-ead1f480-a5f9-11eb-89bb-16c24e69050e.jpeg" width="300" height="500"> <img src="https://user-images.githubusercontent.com/83163103/115995687-eb6a8b00-a5f9-11eb-9a7d-cb6a2b4896b2.jpeg" width="300" height="500">
+<p> <img src="https://user-images.githubusercontent.com/83163103/115995686-ead1f480-a5f9-11eb-89bb-16c24e69050e.jpeg" width="300" height="500">&emsp;<img src="https://user-images.githubusercontent.com/83163103/115995687-eb6a8b00-a5f9-11eb-9a7d-cb6a2b4896b2.jpeg" width="300" height="500"></p>
 
-3. **MEDICINE DONATION**:
+3. **MEDICINE SEEKING**:
 
    Activity providing choice between user register,user login.
 
-<img src="https://user-images.githubusercontent.com/83163103/115995689-ec032180-a5f9-11eb-86a1-9f3fc341f961.jpeg" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/83163103/115995691-ec032180-a5f9-11eb-8af1-6eaac5ab8554.jpeg" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/83163103/115995692-ec9bb800-a5f9-11eb-8882-2fdcac1fefc8.jpeg" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/83163103/115995694-ed344e80-a5f9-11eb-807c-45a59e96afa8.jpeg" width="300" height="500">
+<p><img src="https://user-images.githubusercontent.com/83163103/115995689-ec032180-a5f9-11eb-86a1-9f3fc341f961.jpeg" width="300" height="500">&emsp;<img src="https://user-images.githubusercontent.com/83163103/115995691-ec032180-a5f9-11eb-8af1-6eaac5ab8554.jpeg" width="300" height="500">&emsp;<img src="https://user-images.githubusercontent.com/83163103/115995692-ec9bb800-a5f9-11eb-8882-2fdcac1fefc8.jpeg" width="300" height="500">&emsp;<img src="https://user-images.githubusercontent.com/83163103/115995694-ed344e80-a5f9-11eb-807c-45a59e96afa8.jpeg" width="300" height="500"></p>
+
 <img src="https://user-images.githubusercontent.com/83163103/115995696-edcce500-a5f9-11eb-9acf-5f7dd7c2f601.jpeg" width="300" height="500">
 <img src="https://user-images.githubusercontent.com/83163103/115995698-edcce500-a5f9-11eb-9b20-d49a9adcd7f0.jpeg" width="300" height="500">
 <img src="https://user-images.githubusercontent.com/83163103/115995699-ee657b80-a5f9-11eb-9cec-bb49ec889e9a.jpeg" width="300" height="500">
