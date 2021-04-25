@@ -53,7 +53,7 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
 
 6. **MEDICINE SEEKING**:
 
-   Activity providing choice between user register,user login.
+  This page will initially ask for service they are seeking for: blood donation, blood seeking, medicine donation, medicine seeking. Based on the type of service, in case of donation, 
 
 <p><img src="https://user-images.githubusercontent.com/83163103/115995689-ec032180-a5f9-11eb-86a1-9f3fc341f961.jpeg" width="300" height="500">&emsp;
      <img src="https://user-images.githubusercontent.com/83163103/115995691-ec032180-a5f9-11eb-8af1-6eaac5ab8554.jpeg" width="300" height="500">&emsp;
@@ -62,7 +62,7 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
 
 7. **MEDICINE DONATION**:
 
-   Activity providing choice between user register,user login.
+   Here the user needs to click a picture from the image processor, mention its medicine strength, minimum and maximum age, and its expiry date.
 
 <p><img src="https://user-images.githubusercontent.com/83163103/115995696-edcce500-a5f9-11eb-9acf-5f7dd7c2f601.jpeg" width="300" height="500">&emsp;
      <img src="https://user-images.githubusercontent.com/83163103/115995698-edcce500-a5f9-11eb-9b20-d49a9adcd7f0.jpeg" width="300" height="500">&emsp;
@@ -70,9 +70,9 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
      <img src="https://user-images.githubusercontent.com/83163103/115995700-eefe1200-a5f9-11eb-89a4-f8164e5ea58e.jpeg" width="300" height="500">&emsp;
      <img src="https://user-images.githubusercontent.com/83163103/115995702-ef96a880-a5f9-11eb-95d4-589dc80c829c.jpeg" width="300" height="500"></p>
 
-     ### MEDICINE DONATION:
+   ### Image Processing :
 
-      Activity providing choice between user register,user login.
+      This module consist of scanning the image of a medicine to check the authenticity of its expiry date and strength of the medicine, given as per medicine giver’s input. If       either of the values do not match or unavailable, the medicine given by the user will not be approved. .
 
 <p><img src="https://user-images.githubusercontent.com/83163103/115995704-f02f3f00-a5f9-11eb-989d-c01a2008c538.jpeg" width="300" height="500">&emsp;
 <img src="https://user-images.githubusercontent.com/83163103/115995705-f02f3f00-a5f9-11eb-9fdb-af5f6aa24b39.jpeg" width="300" height="500"></p>
