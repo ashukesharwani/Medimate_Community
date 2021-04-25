@@ -17,7 +17,7 @@ A community-based blood and Medicine donation  App built on Android Studio and F
 1. **MAIN ACTIVITY**:
 
    Welcome screen of the app which shows the app logo and a background for 2 seconds and then proceeds to the next activity.
-<span style="display:block;text-align:center"> ![2](https://user-images.githubusercontent.com/83163103/115993043-747bc500-a5ee-11eb-9763-bcbb308248a1.jpeg)</span>
+<span style="display:block;text-align:center;width:500;height:500> ![2](https://user-images.githubusercontent.com/83163103/115993043-747bc500-a5ee-11eb-9763-bcbb308248a1.jpeg)</span>
   
    
 2. **REGLOGCHOICE**:
