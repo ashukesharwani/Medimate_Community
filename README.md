@@ -21,29 +21,35 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
  <img src="https://user-images.githubusercontent.com/83163103/115995679-e86f9a80-a5f9-11eb-99fe-22af88fa6ca1.jpeg" width="300" height="500">
   
    
-2. **LOGIN**:
+2. **LOGIN & REGISTRATION **:
 
   The user will have to enter their email and password to login into the app. 
   
-<img src="https://user-images.githubusercontent.com/83163103/115995681-e9083100-a5f9-11eb-8f87-28965dfd071a.jpeg" width="300" height="500">
+<p><img src="https://user-images.githubusercontent.com/83163103/115995681-e9083100-a5f9-11eb-8f87-28965dfd071a.jpeg" width="300" height="500">&emsp;
+<img src="https://user-images.githubusercontent.com/83163103/115995683-e9a0c780-a5f9-11eb-850d-9838380e9f3a.jpeg" width="300" height="500"></p>
 
-3. **REGISTRATION**:
-
-   Activity providing choice between user register,user login.
-   
-<img src="https://user-images.githubusercontent.com/83163103/115995683-e9a0c780-a5f9-11eb-850d-9838380e9f3a.jpeg" width="300" height="500">
-
-4. **HOMEPAGE**:
+3. **HOMEPAGE**:
 
    Activity providing choice between user register,user login.
    
-<img src="https://user-images.githubusercontent.com/83163103/115995684-ea395e00-a5f9-11eb-897b-3f02c8483cbc.jpeg" width="300" height="500">
+<p><img src="https://user-images.githubusercontent.com/83163103/115995684-ea395e00-a5f9-11eb-897b-3f02c8483cbc.jpeg" width="300" height="500">&emsp;
+<img src="https://user-images.githubusercontent.com/83163103/115995710-f1f90280-a5f9-11eb-9aff-ecba826d6fde.jpeg" width="300" height="500">&emsp;
+<img src="https://user-images.githubusercontent.com/83163103/115995711-f2919900-a5f9-11eb-9c70-11772acfabb2.jpeg" width="300" height="500">&emsp;</p>
+
+4. **PROFILE**:
+
+   Activity providing choice between user register,user login.
+   
+  <p> <img src="https://user-images.githubusercontent.com/83163103/115995706-f0c7d580-a5f9-11eb-9301-842378fba310.jpeg" width="300" height="500">&emsp;
+   <img src="https://user-images.githubusercontent.com/83163103/115995709-f1606c00-a5f9-11eb-84be-68e10873c61d.jpeg" width="300" height="500"></p>
+
 
 5. **NEWS**:
 
    Activity providing choice between user register,user login.
    
-<p> <img src="https://user-images.githubusercontent.com/83163103/115995686-ead1f480-a5f9-11eb-89bb-16c24e69050e.jpeg" width="300" height="500">&emsp;<img src="https://user-images.githubusercontent.com/83163103/115995687-eb6a8b00-a5f9-11eb-9a7d-cb6a2b4896b2.jpeg" width="300" height="500"></p>
+<p> <img src="https://user-images.githubusercontent.com/83163103/115995686-ead1f480-a5f9-11eb-89bb-16c24e69050e.jpeg" width="300" height="500">&emsp;
+     <img src="https://user-images.githubusercontent.com/83163103/115995687-eb6a8b00-a5f9-11eb-9a7d-cb6a2b4896b2.jpeg" width="300" height="500"></p>
 
 6. **MEDICINE SEEKING**:
 
@@ -71,10 +77,8 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
 <p><img src="https://user-images.githubusercontent.com/83163103/115995704-f02f3f00-a5f9-11eb-989d-c01a2008c538.jpeg" width="300" height="500">&emsp;
 <img src="https://user-images.githubusercontent.com/83163103/115995705-f02f3f00-a5f9-11eb-9fdb-af5f6aa24b39.jpeg" width="300" height="500"></p>
 
-<img src="https://user-images.githubusercontent.com/83163103/115995706-f0c7d580-a5f9-11eb-9301-842378fba310.jpeg" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/83163103/115995709-f1606c00-a5f9-11eb-84be-68e10873c61d.jpeg" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/83163103/115995710-f1f90280-a5f9-11eb-9aff-ecba826d6fde.jpeg" width="300" height="500">
-<img src="https://user-images.githubusercontent.com/83163103/115995711-f2919900-a5f9-11eb-9c70-11772acfabb2.jpeg" width="300" height="500">
+
+
 
 
 
