@@ -23,7 +23,7 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
    
 2. **LOGIN**:
 
-   Activity providing choice between user register,user login.
+  The user will have to enter their email and password to login into the app. 
   
 <img src="https://user-images.githubusercontent.com/83163103/115995681-e9083100-a5f9-11eb-8f87-28965dfd071a.jpeg" width="300" height="500">
 
@@ -33,8 +33,12 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
    
 <img src="https://user-images.githubusercontent.com/83163103/115995683-e9a0c780-a5f9-11eb-850d-9838380e9f3a.jpeg" width="300" height="500">
 
+3. **HOMEPAGE**:
 
+   Activity providing choice between user register,user login.
+   
 <img src="https://user-images.githubusercontent.com/83163103/115995684-ea395e00-a5f9-11eb-897b-3f02c8483cbc.jpeg" width="300" height="500">
+
 <img src="https://user-images.githubusercontent.com/83163103/115995686-ead1f480-a5f9-11eb-89bb-16c24e69050e.jpeg" width="300" height="500">
 <img src="https://user-images.githubusercontent.com/83163103/115995687-eb6a8b00-a5f9-11eb-9a7d-cb6a2b4896b2.jpeg" width="300" height="500">
 <img src="https://user-images.githubusercontent.com/83163103/115995689-ec032180-a5f9-11eb-86a1-9f3fc341f961.jpeg" width="300" height="500">
