@@ -1,6 +1,6 @@
 # Medimate_Community
 <p align="center">
-     <b>A community-based blood and Medicine donation  App built on Android Studio and Firebase Realtime Database.</b>
+     <b>A community-based Blood and Medicine donation App built on Android Studio and Firebase Realtime Database.</b>
 </p>
 Medimate is an attempt to ease the process of blood and medical emergencies by connecting blood donors and drug vendors directly with people in need of blood and medicines. Medimate connects blood donors and drug vendors with recipients, without any intermediary such as blood banks and pharma stores, for an efficient and seamless process.
 
@@ -23,14 +23,14 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
    
 2. **LOGIN & REGISTRATION**:
 
-  The user will have to enter their email and password to login into the app. 
+   Registration only happens the first time you access the system. It is a way to check your credentials. Every time after your initial registration, you will log on to the        system using the username and password you created. 
   
 <p><img src="https://user-images.githubusercontent.com/83163103/115995681-e9083100-a5f9-11eb-8f87-28965dfd071a.jpeg" width="300" height="500">&emsp;
 <img src="https://user-images.githubusercontent.com/83163103/115995683-e9a0c780-a5f9-11eb-850d-9838380e9f3a.jpeg" width="300" height="500"></p>
 
 3. **HOMEPAGE**:
 
-   Activity providing choice between user register,user login.
+   This page will initially ask for service they are seeking for: blood donation, blood seeking, medicine donation, medicine seeking. Based on the type of service, in case of donation, the user will be notified about requests placed by seekers 
    
 <p><img src="https://user-images.githubusercontent.com/83163103/115995684-ea395e00-a5f9-11eb-897b-3f02c8483cbc.jpeg" width="300" height="500">&emsp;
 <img src="https://user-images.githubusercontent.com/83163103/115995710-f1f90280-a5f9-11eb-9aff-ecba826d6fde.jpeg" width="300" height="500">&emsp;
@@ -72,7 +72,8 @@ Medimate is an attempt to ease the process of blood and medical emergencies by c
 
    ### Image Processing :
 
-      This module consist of scanning the image of a medicine to check the authenticity of its expiry date and strength of the medicine, given as per medicine giver’s input. If       either of the values do not match or unavailable, the medicine given by the user will not be approved. .
+      This module consist of scanning the image of a medicine to check the authenticity of its expiry date and strength of the medicine, given as per medicine giver’s input. 
+      Ifeither of the values do not match or unavailable, the medicine given by the user will not be approved. .
 
 <p><img src="https://user-images.githubusercontent.com/83163103/115995704-f02f3f00-a5f9-11eb-989d-c01a2008c538.jpeg" width="300" height="500">&emsp;
 <img src="https://user-images.githubusercontent.com/83163103/115995705-f02f3f00-a5f9-11eb-9fdb-af5f6aa24b39.jpeg" width="300" height="500"></p>
