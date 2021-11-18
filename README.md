@@ -37,8 +37,7 @@ The user needs to register to be eligible to use the app as well as he has to ve
     This page will initially ask for services they are seeking: blood donation, blood-seeking, medicine donation, medicine seeking, News, or Facts. From here the users can choose the respective services according to their requirements. 
    
 <p><img src="https://user-images.githubusercontent.com/83163103/115995684-ea395e00-a5f9-11eb-897b-3f02c8483cbc.jpeg" width="300" height="500">&emsp;
-<img src="https://user-images.githubusercontent.com/83163103/115995710-f1f90280-a5f9-11eb-9aff-ecba826d6fde.jpeg" width="300" height="500">&emsp;
-<img src="https://user-images.githubusercontent.com/83163103/115995711-f2919900-a5f9-11eb-9c70-11772acfabb2.jpeg" width="300" height="500">&emsp;</p>
+<img src="https://user-images.githubusercontent.com/83163103/115995710-f1f90280-a5f9-11eb-9aff-ecba826d6fde.jpeg" width="300" height="500">&emsp;</p>
 
 4. **PROFILE**:
 
